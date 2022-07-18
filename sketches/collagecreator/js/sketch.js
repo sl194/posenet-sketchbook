@@ -15,17 +15,30 @@
  * =============================================================================
  */
 
-// Emojis
-import head0 from '../assets/bodypieces/head/1.png';
-import leftForearm0 from '../assets/bodypieces/leftForearm/1.png';
-import leftShin0 from '../assets/bodypieces/leftShin/1.png';
-import leftThigh0 from '../assets/bodypieces/leftThigh/1.png';
-import leftUpperarm0 from '../assets/bodypieces/leftUpperarm/1.png';
-import rightForearm0 from '../assets/bodypieces/rightForearm/1.png';
-import rightShin0 from '../assets/bodypieces/rightShin/1.png';
-import rightThigh0 from '../assets/bodypieces/rightThigh/1.png';
-import rightUpperarm0 from '../assets/bodypieces/rightUpperarm/1.png';
-import torso0 from '../assets/bodypieces/torso/1.png';
+// OG Emojis
+//import head0 from '../assets/bodypieces/head/1.png';
+//import leftForearm0 from '../assets/bodypieces/leftForearm/1.png';
+//import leftShin0 from '../assets/bodypieces/leftShin/1.png';
+//import leftThigh0 from '../assets/bodypieces/leftThigh/1.png';
+//import leftUpperarm0 from '../assets/bodypieces/leftUpperarm/1.png';
+//import rightForearm0 from '../assets/bodypieces/rightForearm/1.png';
+//import rightShin0 from '../assets/bodypieces/rightShin/1.png';
+//import rightThigh0 from '../assets/bodypieces/rightThigh/1.png';
+//import rightUpperarm0 from '../assets/bodypieces/rightUpperarm/1.png';
+//import torso0 from '../assets/bodypieces/torso/1.png';
+
+//New Emojis
+import head0 from '../assets/bodypieces/new/head.png';
+import leftForearm0 from '../assets/bodypieces/new/leftForearm.png';
+import leftShin0 from '../assets/bodypieces/new/leftShin.png';
+import leftThigh0 from '../assets/bodypieces/new/leftThigh.png';
+import leftUpperarm0 from '../assets/bodypieces/new/leftUpperarm.png';
+import rightForearm0 from '../assets/bodypieces/new/rightForearm.png';
+import rightShin0 from '../assets/bodypieces/new/rightShin.png';
+import rightThigh0 from '../assets/bodypieces/new/rightThigh.png';
+import torso0 from '../assets/bodypieces/new/torso2.png';
+
+
 
 let headPaths = [head0];
 let heads = [];
